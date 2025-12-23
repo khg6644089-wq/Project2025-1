@@ -1,5 +1,5 @@
 # ![로고(마크)](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/logo.png)
-##### 구로구 주민을 위한 치과 예약 리뷰 서비스 '릿치'
+# 구로구 주민을 위한 치과 예약 리뷰 서비스 '릿치'
 
 > ### *Who are we?*
 - 제작 기간 : 2025-11-27 ~ 2025-12-22
