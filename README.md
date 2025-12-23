@@ -1,4 +1,4 @@
-# ![로고(마크)](https://github.com/pparkjs/HankukUniversity_project/assets/107859870/32e54a61-02e7-4606-ad65-902ba5893848)한국대학교 학사관리시스템 (HANKUK University LMS)
+# ![로고(마크)](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/logo.png)한국대학교 학사관리시스템 (HANKUK University LMS)
 
 > ### *Who are we?*
 - 제작 기간 : 2025-11-27 ~ 2025-12-22
