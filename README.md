@@ -75,6 +75,8 @@
 
 ![팀의견](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/1.png)
 
+### 페르소나
+![페르소나](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/22.png)
  - > ### 문제 인식
 
 치과는 정기 검진부터 응급 치료까지 일상에서 자주 이용하는 생활 밀착형 의료 서비스입니다. 하지만 환자들이 치과를 선택할 때 참고할 수 있는 객관적이고 신뢰할 만한 정보는 여전히 부족한 상황입니다.
@@ -106,6 +108,7 @@
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=plastic&logo=apache-tomcat&logoColor=black" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
 
 
 </div>
