@@ -2,7 +2,7 @@
 
 > ### *Who are we?*
 - 제작 기간 : 2023-06-21 ~ 2023-08-11
-- 팀구성 : 박정수(PL) 고영우(UA,DA) 조성희(TA,AA) 정재균(DA,UA) 황지현(AA,TA) 이성일(AA,TA)
+- 팀구성 : 김훈규(PL) 박종석(UA,DA) 임윤섭(TA,AA) 장희란(DA,UA) 이하늘(AA,TA) 홍지승(AA,TA)
 
 ### [프로젝트 노션링크](https://www.notion.so/2-2b51edfffa5280a1bba3c6aec783b856)
 
