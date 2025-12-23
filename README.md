@@ -4,7 +4,7 @@
 - 제작 기간 : 2023-06-21 ~ 2023-08-11
 - 팀구성 : 박정수(PL) 고영우(UA,DA) 조성희(TA,AA) 정재균(DA,UA) 황지현(AA,TA) 이성일(AA,TA)
 
-### [프로젝트 노션링크](https://silicon-vegetable-8cc.notion.site/HanKuk-University-78e41355f95341929e4a102629ee664a?pvs=4)
+### [프로젝트 노션링크](https://www.notion.so/2-2b51edfffa5280a1bba3c6aec783b856)
 
 <br/>
 
